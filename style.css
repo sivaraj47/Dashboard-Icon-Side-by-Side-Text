@@ -1,0 +1,19 @@
+
+.sectionicon{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.iconbox{
+  display:flex;
+  background:#9348;
+  width:200px;
+  height:100px;
+  justify-content:center; 
+  align-items:center;
+  border-radius:5px;
+  margin:0px 5px;
+}
+.iconbox h4{
+  margin:5px 5px;;
+}
